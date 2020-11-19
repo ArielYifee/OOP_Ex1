@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"node_info"},{"p":"<Unnamed>","l":"weighted_graph"},{"p":"<Unnamed>","l":"weighted_graph_algorithms"},{"p":"<Unnamed>","l":"WGraph_Algo"},{"p":"<Unnamed>","l":"WGraph_DS"}];updateSearchResults();
